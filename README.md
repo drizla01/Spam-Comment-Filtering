@@ -1,4 +1,4 @@
 # Spam-Comment-Filtering
 Spam Comment Filtering
  
- A mini project on comparing the best Machine learning technique to be used in selection a filtering system of unwanted comment on a public platform
+ A mini project using Machine learning technique(Supervised learning) for comparing the best method that can used in filtering system of unwanted comments in Youtube.
